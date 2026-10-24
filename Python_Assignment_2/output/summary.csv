@@ -1,0 +1,4 @@
+subject,students,missing_filled,mean,median,min,max,std_dev,pass_percent
+Python,9,2,71.43,71.43,35,98,19.61,88.89
+DBMS,9,1,74.12,74.12,40,95,17.34,100
+OS,9,1,74.38,75,30,97,19.52,88.89

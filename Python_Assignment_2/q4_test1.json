@@ -1,0 +1,6 @@
+{
+  "columns": ["student.name", "course.name"],
+  "where": [{"col": "course.id", "op": "=", "value": "PY101"}],
+  "order": {"col": "student.spi", "dir": "DESC"},
+  "limit": 2
+}
